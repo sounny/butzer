@@ -1,0 +1,71 @@
+* {font-family:'Libre Franklin', sans-serif;}
+
+/*
+	Theme Name: UT WordPress Theme
+	Description: The UT WordPress theme is a customized version of the Genesis Education Pro Theme by StudioPress. We acknowledge and are grateful to the developers at the UT Division of Diversity and Community Engagement for their contributions and customizations of the UT WordPress theme.
+	Author: University of Texas at Austin
+
+	Template: genesis
+	Template Version: 2.0.0
+*/
+
+/*-------------------------
+Custom CSS:
+--------------------------*/
+
+#a2a_thanks {
+  color: #000 !important;
+  background-color: #fff !important;
+}
+
+
+/*
+Despite being hidden with standard methods, screen reader text is being flagged
+for insufficient color contrast. This avoids that, but has no effect on the
+actual element. Also adding a "left" value because position:absolute without one causes problems
+*/
+.screen-reader-text {
+    color: #000;
+    background-color: #fff;
+		left:0px;
+}
+
+
+/*
+The controls for Genesis Responsive Slider need to be larger for accessibiltiy.
+*/
+
+.wp-child-theme-ut-theme .site-container .flex-control-nav {
+	margin: 0 0 20px 0 !important;
+}
+
+.wp-child-theme-ut-theme .site-container .flex-control-nav li a {
+	background-image: none;
+	cursor: pointer;
+	display: block;
+	text-indent: -9999px;
+	transition: none;
+	padding-left: 0px !important;
+	background-color: white;
+	border-style: solid;
+	border-radius: 50%;
+	border-width: 2px;
+	border-color: black;
+	font-size:0;
+}
+
+.wp-child-theme-ut-theme .site-container .flex-control-nav li {
+	margin-right: 10px;
+}
+
+.wp-child-theme-ut-theme .site-container .flex-control-nav li a:hover {
+    background-color: darkgray;
+}
+
+.wp-child-theme-ut-theme .site-container .flex-control-nav li a.active {
+    background-color: black;
+}
+
+.wp-child-theme-ut-theme .site-container .flex-direction-nav li a {
+	font-size: 0;
+}

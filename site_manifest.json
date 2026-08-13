@@ -1,0 +1,2189 @@
+{
+  "html_pages": 18,
+  "images": 49,
+  "pdfs": 266,
+  "css_js": 23,
+  "other_files": 7,
+  "total_bytes": 383865535,
+  "files_list": [
+    {
+      "url": "https://sites.utexas.edu/butzer/",
+      "path": "index.html",
+      "type": "html_page",
+      "size": 49176
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css?ver=7.0.3",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\wp-video-lightbox.css",
+      "type": "css_js",
+      "size": 1130
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/navbar/bootstrap/css/dropdown.css?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\navbar\\bootstrap\\css\\dropdown.css",
+      "type": "css_js",
+      "size": 8027
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/navbar/bootstrap/css/buttons.css?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\navbar\\bootstrap\\css\\buttons.css",
+      "type": "css_js",
+      "size": 2353
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/navbar/css/wft_navbar.css?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\navbar\\css\\wft_navbar.css",
+      "type": "css_js",
+      "size": 5063
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/navbar/bootstrap/css/navbar.css?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\navbar\\bootstrap\\css\\navbar.css",
+      "type": "css_js",
+      "size": 11803
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/navbar/bootstrap/css/transitions.css?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\navbar\\bootstrap\\css\\transitions.css",
+      "type": "css_js",
+      "size": 580
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css?ver=7.0.3",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\css\\prettyPhoto.css",
+      "type": "css_js",
+      "size": 19962
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-includes/css/dashicons.min.css?ver=7.0.3",
+      "path": "wp-includes\\css\\dashicons.min.css",
+      "type": "css_js",
+      "size": 59004
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/style.css?ver=3.6.1",
+      "path": "wp-content\\themes\\ut-theme\\style.css",
+      "type": "css_js",
+      "size": 1918
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/css/master-style-ut-theme.css?ver=3.0.0&ver=3.0.0",
+      "path": "wp-content\\themes\\ut-theme\\css\\master-style-ut-theme.css",
+      "type": "css_js",
+      "size": 52330
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/default/sprite.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\default\\sprite.png",
+      "type": "images",
+      "size": 6682
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/font/font-awesome/css/font-awesome.min.css?ver=3.6.1",
+      "path": "wp-content\\themes\\ut-theme\\font\\font-awesome\\css\\font-awesome.min.css",
+      "type": "css_js",
+      "size": 31000
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16",
+      "path": "wp-content\\plugins\\add-to-any\\addtoany.min.css",
+      "type": "css_js",
+      "size": 1604
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/genesis-responsive-slider/assets/style.css?ver=1.0.1",
+      "path": "wp-content\\plugins\\genesis-responsive-slider\\assets\\style.css",
+      "type": "css_js",
+      "size": 4198
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/default/sprite_x.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\default\\sprite_x.png",
+      "type": "images",
+      "size": 1097
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/genesis-responsive-slider/assets/images/bg_direction_nav.png",
+      "path": "wp-content\\plugins\\genesis-responsive-slider\\assets\\images\\bg_direction_nav.png",
+      "type": "images",
+      "size": 2242
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800",
+      "path": "wp-includes\\fonts\\dashicons.eot",
+      "type": "other_files",
+      "size": 56564
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/default/sprite_y.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\default\\sprite_y.png",
+      "type": "images",
+      "size": 1162
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "path": "wp-includes\\js\\jquery\\jquery.min.js",
+      "type": "css_js",
+      "size": 87553
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/genesis-responsive-slider/assets/images/bg_control_nav.png",
+      "path": "wp-content\\plugins\\genesis-responsive-slider\\assets\\images\\bg_control_nav.png",
+      "type": "images",
+      "size": 495
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/default/sprite_next.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\default\\sprite_next.png",
+      "type": "images",
+      "size": 1358
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "path": "wp-includes\\js\\jquery\\jquery-migrate.min.js",
+      "type": "css_js",
+      "size": 13577
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=3.1.6",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\js\\jquery.prettyPhoto.js",
+      "type": "css_js",
+      "size": 35820
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/default/sprite_prev.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "type": "images",
+      "size": 1376
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/font/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "path": "wp-content\\themes\\ut-theme\\font\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "type": "other_files",
+      "size": 165742
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800",
+      "path": "wp-includes\\fonts\\dashicons.ttf",
+      "type": "other_files",
+      "size": 56392
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1",
+      "path": "wp-content\\plugins\\add-to-any\\addtoany.min.js",
+      "type": "css_js",
+      "size": 129
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js?ver=3.1.6",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\js\\video-lightbox.js",
+      "type": "css_js",
+      "size": 6927
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/default/default_thumb.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\default\\default_thumb.png",
+      "type": "images",
+      "size": 1537
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/images/favicon.ico",
+      "path": "wp-content\\themes\\ut-theme\\images\\favicon.ico",
+      "type": "images",
+      "size": 15086
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/images/UTlogo.png",
+      "path": "wp-content\\themes\\ut-theme\\images\\UTlogo.png",
+      "type": "images",
+      "size": 15455
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/images/knockout_university_informal_horizontal_padded.svg",
+      "path": "wp-content\\themes\\ut-theme\\images\\knockout_university_informal_horizontal_padded.svg",
+      "type": "images",
+      "size": 16985
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/default/loader.gif",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\default\\loader.gif",
+      "type": "images",
+      "size": 6331
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/navbar/js/wft_navbar.js?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\navbar\\js\\wft_navbar.js",
+      "type": "css_js",
+      "size": 418
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/navbar/bootstrap/js/bootstrap.min.js?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\navbar\\bootstrap\\js\\bootstrap.min.js",
+      "type": "css_js",
+      "size": 60635
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/light_rounded/sprite.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "type": "images",
+      "size": 4099
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.6.1",
+      "path": "wp-content\\themes\\genesis\\lib\\js\\skip-links.min.js",
+      "type": "css_js",
+      "size": 371
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/js/UT-theme.js?ver=7.0.3",
+      "path": "wp-content\\themes\\ut-theme\\js\\UT-theme.js",
+      "type": "css_js",
+      "size": 3315
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/light_rounded/btnNext.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "type": "images",
+      "size": 1411
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/genesis-responsive-slider/assets/js/jquery.flexslider.js?ver=1.0.1",
+      "path": "wp-content\\plugins\\genesis-responsive-slider\\assets\\js\\jquery.flexslider.js",
+      "type": "css_js",
+      "size": 27245
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/font/font-awesome/fonts/fontawesome-webfont.eot",
+      "path": "wp-content\\themes\\ut-theme\\font\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "type": "other_files",
+      "size": 165742
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/light_rounded/btnPrevious.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "type": "images",
+      "size": 1442
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_rounded/sprite.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "type": "images",
+      "size": 4076
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/font/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "path": "wp-content\\themes\\ut-theme\\font\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "type": "other_files",
+      "size": 77160
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2013/11/Newfoundland.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2013\\11\\Newfoundland.jpg",
+      "type": "images",
+      "size": 557799
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_rounded/contentPattern.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "type": "images",
+      "size": 130
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/font/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "path": "wp-content\\themes\\ut-theme\\font\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "type": "other_files",
+      "size": 98024
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_rounded/btnNext.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "type": "images",
+      "size": 1411
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_rounded/btnPrevious.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "type": "images",
+      "size": 1442
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/font/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "path": "wp-content\\themes\\ut-theme\\font\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "type": "other_files",
+      "size": 165548
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_rounded/loader.gif",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "type": "images",
+      "size": 2545
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_square/loader.gif",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "type": "images",
+      "size": 2545
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_square/sprite.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "type": "images",
+      "size": 3507
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_square/btnNext.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "type": "images",
+      "size": 1411
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/dark_square/btnPrevious.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "type": "images",
+      "size": 1442
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/light_square/sprite.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\light_square\\sprite.png",
+      "type": "images",
+      "size": 3507
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/light_square/btnNext.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "type": "images",
+      "size": 1411
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/light_square/btnPrevious.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "type": "images",
+      "size": 1442
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/sprite.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\sprite.png",
+      "type": "images",
+      "size": 4227
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/themes/ut-theme/font/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+      "path": "wp-content\\themes\\ut-theme\\font\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "type": "images",
+      "size": 444379
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/contentPatternTop.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "type": "images",
+      "size": 142
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/contentPatternLeft.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "type": "images",
+      "size": 137
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/contentPatternRight.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "type": "images",
+      "size": 136
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/loader.gif",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\loader.gif",
+      "type": "images",
+      "size": 2545
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/btnNext.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "type": "images",
+      "size": 845
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/btnPrevious.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "type": "images",
+      "size": 828
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/contentPatternBottom.png",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "type": "images",
+      "size": 142
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/facebook/default_thumbnail.gif",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "type": "images",
+      "size": 227
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/plugins/wp-video-lightbox/images/prettyPhoto/light_rounded/loader.gif",
+      "path": "wp-content\\plugins\\wp-video-lightbox\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "type": "images",
+      "size": 2545
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/home-page/",
+      "path": "home-page\\index.html",
+      "type": "html_page",
+      "size": 35594
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/academic-trajectory/",
+      "path": "academic-trajectory\\index.html",
+      "type": "html_page",
+      "size": 36639
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/biography/",
+      "path": "biography\\index.html",
+      "type": "html_page",
+      "size": 37579
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/service/",
+      "path": "service\\index.html",
+      "type": "html_page",
+      "size": 36124
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/publications/",
+      "path": "publications\\index.html",
+      "type": "html_page",
+      "size": 46173
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/Egypt1972small-209x300.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\Egypt1972small-209x300.jpg",
+      "type": "images",
+      "size": 21238
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/MelkaKontoureSite-300x298.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\MelkaKontoureSite-300x298.jpg",
+      "type": "images",
+      "size": 41082
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/Egypt1972small.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\Egypt1972small.jpg",
+      "type": "images",
+      "size": 82918
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/BurgWartenstein-205x300.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\BurgWartenstein-205x300.jpg",
+      "type": "images",
+      "size": 11838
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2013/11/In-memoriam.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2013\\11\\In-memoriam.pdf",
+      "type": "pdfs",
+      "size": 143932
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/BurgWartenstein.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\BurgWartenstein.jpg",
+      "type": "images",
+      "size": 38673
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/major-areas-of-fieldwork/",
+      "path": "major-areas-of-fieldwork\\index.html",
+      "type": "html_page",
+      "size": 37237
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/sample-page/",
+      "path": "sample-page\\index.html",
+      "type": "html_page",
+      "size": 36459
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/Giza2001-220x300.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\Giza2001-220x300.jpg",
+      "type": "images",
+      "size": 17830
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/LakeTurkana1968-209x300.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\LakeTurkana1968-209x300.jpg",
+      "type": "images",
+      "size": 16891
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/courses-developed-and-students/",
+      "path": "courses-developed-and-students\\index.html",
+      "type": "html_page",
+      "size": 36553
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/publications-2/",
+      "path": "publications-2\\index.html",
+      "type": "html_page",
+      "size": 138315
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/LakeTurkana1968.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\LakeTurkana1968.jpg",
+      "type": "images",
+      "size": 61354
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/Giza2001.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\Giza2001.jpg",
+      "type": "images",
+      "size": 96074
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/geoarchaeology-and-environmental-history/",
+      "path": "geoarchaeology-and-environmental-history\\index.html",
+      "type": "html_page",
+      "size": 40133
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2014/07/MelkaKontoureSite.jpg",
+      "path": "wp-content\\uploads\\sites\\6106\\2014\\07\\MelkaKontoureSite.jpg",
+      "type": "images",
+      "size": 257787
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/landscape-society-and-meaning/",
+      "path": "landscape-society-and-meaning\\index.html",
+      "type": "html_page",
+      "size": 38127
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/historical-geography-of-colonial-mexico/",
+      "path": "historical-geography-of-colonial-mexico\\index.html",
+      "type": "html_page",
+      "size": 36128
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/issues/",
+      "path": "issues\\index.html",
+      "type": "html_page",
+      "size": 43858
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1957-MedPluvialsPleistocene.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1957-MedPluvialsPleistocene.pdf",
+      "type": "pdfs",
+      "size": 849228
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1957-DerUmweltfaktor.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1957-DerUmweltfaktor.pdf",
+      "type": "pdfs",
+      "size": 766249
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1958-NearEastGlaciatio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1958-NearEastGlaciatio.pdf",
+      "type": "pdfs",
+      "size": 447849
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1957-RecentClimaticFluctuations1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1957-RecentClimaticFluctuations1.pdf",
+      "type": "pdfs",
+      "size": 1253129
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1958-DerVMadridUndBarcelona1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1958-DerVMadridUndBarcelona1.pdf",
+      "type": "pdfs",
+      "size": 772991
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1982-HumanEcology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1982-HumanEcology.pdf",
+      "type": "pdfs",
+      "size": 1305368
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1959-PredynasticFlak.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1959-PredynasticFlak.pdf",
+      "type": "pdfs",
+      "size": 118677
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1957-Klimaschwankungen-im-Vorderen-Orient.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1957-Klimaschwankungen-im-Vorderen-Orient.pdf",
+      "type": "pdfs",
+      "size": 2762232
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1959-RecentGeologicalNileVal-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1959-RecentGeologicalNileVal-1.pdf",
+      "type": "pdfs",
+      "size": 793418
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1958-DerVinternationaleKongress1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1958-DerVinternationaleKongress1.pdf",
+      "type": "pdfs",
+      "size": 401203
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1959-HumanEcologyEgypt.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1959-HumanEcologyEgypt.pdf",
+      "type": "pdfs",
+      "size": 1323745
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1960-TagungAssociatio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1960-TagungAssociatio.pdf",
+      "type": "pdfs",
+      "size": 404965
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1960-HellenisticNileValley.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1960-HellenisticNileValley.pdf",
+      "type": "pdfs",
+      "size": 889603
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1960-DynamicClimatologyMedSea.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1960-DynamicClimatologyMedSea.pdf",
+      "type": "pdfs",
+      "size": 633024
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1960-NotaLaIslaDeMallorca.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1960-NotaLaIslaDeMallorca.pdf",
+      "type": "pdfs",
+      "size": 487986
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1961-PaleoclimaticImplications.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1961-PaleoclimaticImplications.pdf",
+      "type": "pdfs",
+      "size": 546596
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1961-GeologischenLandschaft.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1961-GeologischenLandschaft.pdf",
+      "type": "pdfs",
+      "size": 655823
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1960-ArchaeologyandGeologyinAncientEgypt.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1960-ArchaeologyandGeologyinAncientEgypt.pdf",
+      "type": "pdfs",
+      "size": 2143215
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1962-CoastalMajorica.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1962-CoastalMajorica.pdf",
+      "type": "pdfs",
+      "size": 1562864
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1962-NuevosYacimientosBalares.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1962-NuevosYacimientosBalares.pdf",
+      "type": "pdfs",
+      "size": 895139
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer_Cuerda-1962-StratMallorcaMedSea.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer_Cuerda-1962-StratMallorcaMedSea.pdf",
+      "type": "pdfs",
+      "size": 3114915
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1962-NotasSobreEvolucion.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1962-NotasSobreEvolucion.pdf",
+      "type": "pdfs",
+      "size": 1715064
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1962-ObservacionesPreliminaresAmbrona.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1962-ObservacionesPreliminaresAmbrona.pdf",
+      "type": "pdfs",
+      "size": 509831
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1963-ChangeClimateLateRecord_AridZone.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1963-ChangeClimateLateRecord_AridZone.pdf",
+      "type": "pdfs",
+      "size": 80185
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1963-TheLastPluvialEurafricanSubtropic.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1963-TheLastPluvialEurafricanSubtropic.pdf",
+      "type": "pdfs",
+      "size": 475230
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1963-EurafricanSubtropic.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1963-EurafricanSubtropic.pdf",
+      "type": "pdfs",
+      "size": 878013
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1961-DeLaSociedad.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1961-DeLaSociedad.pdf",
+      "type": "pdfs",
+      "size": 1719359
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1962-PrehistoryEgypt.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1962-PrehistoryEgypt.pdf",
+      "type": "pdfs",
+      "size": 3042463
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1964-ColdClimateMallorca.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1964-ColdClimateMallorca.pdf",
+      "type": "pdfs",
+      "size": 1357562
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1965-AcheulianOccupatio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1965-AcheulianOccupatio.pdf",
+      "type": "pdfs",
+      "size": 1532273
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer_Hansen-1965-PleistoceneSEgypt.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer_Hansen-1965-PleistoceneSEgypt.pdf",
+      "type": "pdfs",
+      "size": 549125
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1958-RussianClimateHydrological.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1958-RussianClimateHydrological.pdf",
+      "type": "pdfs",
+      "size": 6114807
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1965-DesertLandform.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1965-DesertLandform.pdf",
+      "type": "pdfs",
+      "size": 2522088
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1965-PleistoceneSouthernEgyp.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1965-PleistoceneSouthernEgyp.pdf",
+      "type": "pdfs",
+      "size": 426093
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1964-PleistoceneGeomorphandStratofCostaBravaCatalonia.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1964-PleistoceneGeomorphandStratofCostaBravaCatalonia.pdf",
+      "type": "pdfs",
+      "size": 6278488
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1966-EnvironmentandArchaeolog.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1966-EnvironmentandArchaeolog.pdf",
+      "type": "pdfs",
+      "size": 3583809
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1966-ClimaticChangesAridAfrica800BC.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1966-ClimaticChangesAridAfrica800BC.pdf",
+      "type": "pdfs",
+      "size": 600876
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1986-Viator-MedievalMuslimsValencia.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1986-Viator-MedievalMuslimsValencia.pdf",
+      "type": "pdfs",
+      "size": 8934620
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1967-StratigraphyBudino.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1967-StratigraphyBudino.pdf",
+      "type": "pdfs",
+      "size": 862202
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1966-TorralbaAcheuleanSpain.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1966-TorralbaAcheuleanSpain.pdf",
+      "type": "pdfs",
+      "size": 645671
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Collaboration-1966-ReviewsofEnvironmentandArchaeolog.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Collaboration-1966-ReviewsofEnvironmentandArchaeolog.pdf",
+      "type": "pdfs",
+      "size": 3582324
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1967-ProblematicPleistocene.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1967-ProblematicPleistocene.pdf",
+      "type": "pdfs",
+      "size": 89495
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1967-UppPleistoceneSouthEgyp.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1967-UppPleistoceneSouthEgyp.pdf",
+      "type": "pdfs",
+      "size": 1158197
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1966-desertspast.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1966-desertspast.pdf",
+      "type": "pdfs",
+      "size": 1895655
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1967-ReplytoLatePleistocene.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1967-ReplytoLatePleistocene.pdf",
+      "type": "pdfs",
+      "size": 574333
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1967-InterrelationshipsofSubsaharan.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1967-InterrelationshipsofSubsaharan.pdf",
+      "type": "pdfs",
+      "size": 143840
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-Hansen-1967-EarlyPleistoceneNileValley.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-Hansen-1967-EarlyPleistoceneNileValley.pdf",
+      "type": "pdfs",
+      "size": 269445
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1967-GeographicalReviewTundra.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1967-GeographicalReviewTundra.pdf",
+      "type": "pdfs",
+      "size": 486924
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1967-LatePleistoceneKomOmboPlain.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1967-LatePleistoceneKomOmboPlain.pdf",
+      "type": "pdfs",
+      "size": 2178140
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1968-PollenAnalysisCuevaDelToll.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1968-PollenAnalysisCuevaDelToll.pdf",
+      "type": "pdfs",
+      "size": 2275162
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1969-GeomorphologicalLowerOmo_Kibish.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1969-GeomorphologicalLowerOmo_Kibish.pdf",
+      "type": "pdfs",
+      "size": 634186
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1969-GeologicalPleistoceneLowerOmo.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1969-GeologicalPleistoceneLowerOmo.pdf",
+      "type": "pdfs",
+      "size": 3086231
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1969-changesinthelan-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1969-changesinthelan-1.pdf",
+      "type": "pdfs",
+      "size": 440555
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1966-Sayala.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1966-Sayala.pdf",
+      "type": "pdfs",
+      "size": 6804216
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1970-ContemporaryOmoDelta.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1970-ContemporaryOmoDelta.pdf",
+      "type": "pdfs",
+      "size": 466918
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1970-HorizontalSedimentsKibish.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1970-HorizontalSedimentsKibish.pdf",
+      "type": "pdfs",
+      "size": 1095184
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1970-AlluvialOrangeandVaal.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1970-AlluvialOrangeandVaal.pdf",
+      "type": "pdfs",
+      "size": 390882
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1968-commentsonPleistoceneEpoc.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1968-commentsonPleistoceneEpoc.pdf",
+      "type": "pdfs",
+      "size": 4265066
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1970-GeographicalRecordRegionalPopulatio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1970-GeographicalRecordRegionalPopulatio.pdf",
+      "type": "pdfs",
+      "size": 1184189
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1971-ComunicacionPreliminar-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1971-ComunicacionPreliminar-1.pdf",
+      "type": "pdfs",
+      "size": 491743
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1971-AustralopithecineCav.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1971-AustralopithecineCav.pdf",
+      "type": "pdfs",
+      "size": 692838
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1971-TheLowerOmoBasinGeologyFaunaandHominids.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1971-TheLowerOmoBasinGeologyFaunaandHominids.pdf",
+      "type": "pdfs",
+      "size": 2237641
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1971-TheSignificanceofAgriculturalDispersal.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1971-TheSignificanceofAgriculturalDispersal.pdf",
+      "type": "pdfs",
+      "size": 966882
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1971-12AgriculturalOrigins.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1971-12AgriculturalOrigins.pdf",
+      "type": "pdfs",
+      "size": 1236801
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1972-PleistoceneBeachesMersa.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1972-PleistoceneBeachesMersa.pdf",
+      "type": "pdfs",
+      "size": 84270
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1972-MolluscanAssemblagesLowerOm.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1972-MolluscanAssemblagesLowerOm.pdf",
+      "type": "pdfs",
+      "size": 115080
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-GeographicalRecordofNorthAmeric.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-GeographicalRecordofNorthAmeric.pdf",
+      "type": "pdfs",
+      "size": 401478
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1972-CenozoicCapeCoas.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1972-CenozoicCapeCoas.pdf",
+      "type": "pdfs",
+      "size": 1134959
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-QuaternaryEnvironmentalChange.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-QuaternaryEnvironmentalChange.pdf",
+      "type": "pdfs",
+      "size": 993079
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1972-RadiocarbonDatingEastAfricanLak.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1972-RadiocarbonDatingEastAfricanLak.pdf",
+      "type": "pdfs",
+      "size": 2235094
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1973-DawnintheRudolf.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1973-DawnintheRudolf.pdf",
+      "type": "pdfs",
+      "size": 258288
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1972-LatePleistoceneKomOmboPlain.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1972-LatePleistoceneKomOmboPlain.pdf",
+      "type": "pdfs",
+      "size": 1938287
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-Geology-of-Nelson-Bay-Cav.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-Geology-of-Nelson-Bay-Cav.pdf",
+      "type": "pdfs",
+      "size": 2518929
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-PleistocenePeriglacia.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-PleistocenePeriglacia.pdf",
+      "type": "pdfs",
+      "size": 857829
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-AlluvialTerracesofVaalRive.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-AlluvialTerracesofVaalRive.pdf",
+      "type": "pdfs",
+      "size": 3515651
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-PluralismGeomorphology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-PluralismGeomorphology.pdf",
+      "type": "pdfs",
+      "size": 452997
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1973-ReEvaluationoftheGeology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1973-ReEvaluationoftheGeology.pdf",
+      "type": "pdfs",
+      "size": 1118282
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-Rebuttl.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-Rebuttl.pdf",
+      "type": "pdfs",
+      "size": 373439
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-MontaguCave.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-MontaguCave.pdf",
+      "type": "pdfs",
+      "size": 996051
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-Langebaanweg.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-Langebaanweg.pdf",
+      "type": "pdfs",
+      "size": 215778
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-PalaeohydrologyLatePleistocene.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-PalaeohydrologyLatePleistocene.pdf",
+      "type": "pdfs",
+      "size": 3090833
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-SpringSedimentAmanzi.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-SpringSedimentAmanzi.pdf",
+      "type": "pdfs",
+      "size": 670182
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1974-PerspSoilErosion-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1974-PerspSoilErosion-1.pdf",
+      "type": "pdfs",
+      "size": 909718
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1974-ModernEgypePotter.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1974-ModernEgypePotter.pdf",
+      "type": "pdfs",
+      "size": 844817
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1974-MidPleistocen.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1974-MidPleistocen.pdf",
+      "type": "pdfs",
+      "size": 1334451
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1974-ReflectionsonStabilit.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1974-ReflectionsonStabilit.pdf",
+      "type": "pdfs",
+      "size": 296344
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-SilsilianOccupationSite.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-SilsilianOccupationSite.pdf",
+      "type": "pdfs",
+      "size": 3057423
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1974-DoornlaagteRooidam.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1974-DoornlaagteRooidam.pdf",
+      "type": "pdfs",
+      "size": 5325000
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1975-EcologicalApproachtoArch.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1975-EcologicalApproachtoArch.pdf",
+      "type": "pdfs",
+      "size": 261280
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1975-AcheulianHunterGatherers.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1975-AcheulianHunterGatherers.pdf",
+      "type": "pdfs",
+      "size": 815505
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1974-PaleoecologySAfric.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1974-PaleoecologySAfric.pdf",
+      "type": "pdfs",
+      "size": 2641347
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1975-BirketQuran.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1975-BirketQuran.pdf",
+      "type": "pdfs",
+      "size": 196806
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1975-PatternsofEnvChangeNearEast.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1975-PatternsofEnvChangeNearEast.pdf",
+      "type": "pdfs",
+      "size": 964575
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1975-OnTaungRevisite.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1975-OnTaungRevisite.pdf",
+      "type": "pdfs",
+      "size": 412565
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1976-CarlTrollObi.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1976-CarlTrollObi.pdf",
+      "type": "pdfs",
+      "size": 100375
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1976-PleistoceneClimates.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1976-PleistoceneClimates.pdf",
+      "type": "pdfs",
+      "size": 898317
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1976-LithostratigraphySwartkrans.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1976-LithostratigraphySwartkrans.pdf",
+      "type": "pdfs",
+      "size": 428742
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1977-Geo-ArchinPractice.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1977-Geo-ArchinPractice.pdf",
+      "type": "pdfs",
+      "size": 211858
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1975-PleistoceneLittoralSed.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1975-PleistoceneLittoralSed.pdf",
+      "type": "pdfs",
+      "size": 3114165
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Helgren_Butzer-1977-CapeCoast_SouthAfric-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Helgren_Butzer-1977-CapeCoast_SouthAfric-1.pdf",
+      "type": "pdfs",
+      "size": 487818
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1976-AlgunosSedimentos.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1976-AlgunosSedimentos.pdf",
+      "type": "pdfs",
+      "size": 4435288
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1977-EnvironmentCultureHumanEvolutio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1977-EnvironmentCultureHumanEvolutio.pdf",
+      "type": "pdfs",
+      "size": 4033399
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1976-Murssi.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1976-Murssi.pdf",
+      "type": "pdfs",
+      "size": 3290685
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1977-RockEngravingsandtheLaterStoneAge.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1977-RockEngravingsandtheLaterStoneAge.pdf",
+      "type": "pdfs",
+      "size": 2218680
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1978-LateCenozoicpaleoclimatesoftheGaapEscarpment_Kalahari.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1978-LateCenozoicpaleoclimatesoftheGaapEscarpment_Kalahari.pdf",
+      "type": "pdfs",
+      "size": 2842101
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1978-contextualapproachinarchaeology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1978-contextualapproachinarchaeology.pdf",
+      "type": "pdfs",
+      "size": 274378
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1978-ClimatePatternsUnGlaciated.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1978-ClimatePatternsUnGlaciated.pdf",
+      "type": "pdfs",
+      "size": 1514316
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1978-TowardIntegratedFIRSTDRAFT.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1978-TowardIntegratedFIRSTDRAFT.pdf",
+      "type": "pdfs",
+      "size": 172760
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1978-PerspectivesonIrrigationEgypt.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1978-PerspectivesonIrrigationEgypt.pdf",
+      "type": "pdfs",
+      "size": 469850
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1978-TsitsikamaCoastSouthAfric.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1978-TsitsikamaCoastSouthAfric.pdf",
+      "type": "pdfs",
+      "size": 2923720
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1978-Koster_Sit.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1978-Koster_Sit.pdf",
+      "type": "pdfs",
+      "size": 790837
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1978-GeographicalSpace.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1978-GeographicalSpace.pdf",
+      "type": "pdfs",
+      "size": 713384
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1979-Uranium-SeriesDatin-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1979-Uranium-SeriesDatin-1.pdf",
+      "type": "pdfs",
+      "size": 303440
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1979-Mareotis.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1979-Mareotis.pdf",
+      "type": "pdfs",
+      "size": 200927
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1979-RockEngravinginSAfric.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1979-RockEngravinginSAfric.pdf",
+      "type": "pdfs",
+      "size": 3767984
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1979-Elandsbaai.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1979-Elandsbaai.pdf",
+      "type": "pdfs",
+      "size": 1720919
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1979-ImplicationsSkeletalRemainsHumanEvolutio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1979-ImplicationsSkeletalRemainsHumanEvolutio.pdf",
+      "type": "pdfs",
+      "size": 2390720
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1979-PleistoceneHistoryLowerNubia.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1979-PleistoceneHistoryLowerNubia.pdf",
+      "type": "pdfs",
+      "size": 3236113
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1978-LithostratigraphyofBorderCaveKwaZuluSouthAfrica.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1978-LithostratigraphyofBorderCaveKwaZuluSouthAfrica.pdf",
+      "type": "pdfs",
+      "size": 6242942
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1980-Alluvia.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1980-Alluvia.pdf",
+      "type": "pdfs",
+      "size": 494707
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1980-Civilizations_Organisms_or_System.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1980-Civilizations_Organisms_or_System.pdf",
+      "type": "pdfs",
+      "size": 1769314
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1980-ContextinArchaeolog.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1980-ContextinArchaeolog.pdf",
+      "type": "pdfs",
+      "size": 1041204
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1981-Nil.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1981-Nil.pdf",
+      "type": "pdfs",
+      "size": 195796
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1980-VolcanismHumanHistor-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1980-VolcanismHumanHistor-1.pdf",
+      "type": "pdfs",
+      "size": 953803
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1980-EastAfrica.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1980-EastAfrica.pdf",
+      "type": "pdfs",
+      "size": 7469308
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1982-EmpiresCapitalsEtheopi.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1982-EmpiresCapitalsEtheopi.pdf",
+      "type": "pdfs",
+      "size": 1385150
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Wreschner_Butzer-1980-OchreCommentary-2.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Wreschner_Butzer-1980-OchreCommentary-2.pdf",
+      "type": "pdfs",
+      "size": 2855642
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1982-HumanResponseEnvironmentalChang.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1982-HumanResponseEnvironmentalChang.pdf",
+      "type": "pdfs",
+      "size": 977907
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1982-KULTURANPASSUN.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1982-KULTURANPASSUN.pdf",
+      "type": "pdfs",
+      "size": 1036554
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1983-Geo-ArchaeologyMedievalAlzira.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1983-Geo-ArchaeologyMedievalAlzira.pdf",
+      "type": "pdfs",
+      "size": 1281736
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1983-Geo-ArchaeologyMedievalAlziraSPANISH.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1983-Geo-ArchaeologyMedievalAlziraSPANISH.pdf",
+      "type": "pdfs",
+      "size": 686276
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1983-MesaRedonda.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1983-MesaRedonda.pdf",
+      "type": "pdfs",
+      "size": 1423926
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1983-Sahe.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1983-Sahe.pdf",
+      "type": "pdfs",
+      "size": 933024
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1981-Axum.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1981-Axum.pdf",
+      "type": "pdfs",
+      "size": 3757399
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1984-RotesMeer.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1984-RotesMeer.pdf",
+      "type": "pdfs",
+      "size": 1355210
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1983-GlobalSeaLevelStratigraph.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1983-GlobalSeaLevelStratigraph.pdf",
+      "type": "pdfs",
+      "size": 901790
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1981-CaveSedimentsMousterianFacie.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1981-CaveSedimentsMousterianFacie.pdf",
+      "type": "pdfs",
+      "size": 7259177
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1984-LongTermNile.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1984-LongTermNile.pdf",
+      "type": "pdfs",
+      "size": 1383264
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1982-Seidlungsgeographie.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1982-Seidlungsgeographie.pdf",
+      "type": "pdfs",
+      "size": 575143
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1986-WestWuste.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1986-WestWuste.pdf",
+      "type": "pdfs",
+      "size": 194027
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1986-Wuste.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1986-Wuste.pdf",
+      "type": "pdfs",
+      "size": 285828
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1988-CattleandSheepSpai.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1988-CattleandSheepSpai.pdf",
+      "type": "pdfs",
+      "size": 1286662
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1988-ForewardtoH.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1988-ForewardtoH.pdf",
+      "type": "pdfs",
+      "size": 181900
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1988-ForewordFarmersFreeman.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1988-ForewordFarmersFreeman.pdf",
+      "type": "pdfs",
+      "size": 192488
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1985-IrrigationEasternSpai.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1985-IrrigationEasternSpai.pdf",
+      "type": "pdfs",
+      "size": 1388093
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1989-Origenesdeladistribucion.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1989-Origenesdeladistribucion.pdf",
+      "type": "pdfs",
+      "size": 526701
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1986-PaleolithicAdaptatio-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1986-PaleolithicAdaptatio-1.pdf",
+      "type": "pdfs",
+      "size": 2167691
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1988-SedimentalInterpretationofFlorisbad.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1988-SedimentalInterpretationofFlorisbad.pdf",
+      "type": "pdfs",
+      "size": 594225
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1988-GeoarchaeologyMarginalityMode-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1988-GeoarchaeologyMarginalityMode-1.pdf",
+      "type": "pdfs",
+      "size": 889200
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1982-GeomorphologyandSedimentStratigraphy.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1982-GeomorphologyandSedimentStratigraphy.pdf",
+      "type": "pdfs",
+      "size": 6990341
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1989-RockArtinVaalOrangeRiver.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1989-RockArtinVaalOrangeRiver.pdf",
+      "type": "pdfs",
+      "size": 1670682
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1990-HumanEcosystemFramework.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1990-HumanEcosystemFramework.pdf",
+      "type": "pdfs",
+      "size": 1931650
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1989-HistoricalQuateretaroFieldTripGuid.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1989-HistoricalQuateretaroFieldTripGuid.pdf",
+      "type": "pdfs",
+      "size": 2680588
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1989-CulturalEcology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1989-CulturalEcology.pdf",
+      "type": "pdfs",
+      "size": 1140879
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1991-CommentsonDocumentatio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1991-CommentsonDocumentatio.pdf",
+      "type": "pdfs",
+      "size": 640468
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1991-Geoarchaeology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1991-Geoarchaeology.pdf",
+      "type": "pdfs",
+      "size": 141962
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1984-OldWorldPerspective.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1984-OldWorldPerspective.pdf",
+      "type": "pdfs",
+      "size": 1596891
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1989-FieldTripGuideIrrigationLivestoc.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1989-FieldTripGuideIrrigationLivestoc.pdf",
+      "type": "pdfs",
+      "size": 4016822
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer_Williams-1992-ThreeMapsNewSpain1580.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer_Williams-1992-ThreeMapsNewSpain1580.pdf",
+      "type": "pdfs",
+      "size": 1682197
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1992-Before_Afte_1492-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1992-Before_Afte_1492-1.pdf",
+      "type": "pdfs",
+      "size": 2466020
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1991-ethno-agriculture-and-cultural-ecology-in-mexico.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1991-ethno-agriculture-and-cultural-ecology-in-mexico.pdf",
+      "type": "pdfs",
+      "size": 2060739
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1992-LandUseChange.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1992-LandUseChange.pdf",
+      "type": "pdfs",
+      "size": 3833423
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1992-CastlesontheValencia.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1992-CastlesontheValencia.pdf",
+      "type": "pdfs",
+      "size": 515166
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1992-AmericasBeforeAft1492.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1992-AmericasBeforeAft1492.pdf",
+      "type": "pdfs",
+      "size": 2299765
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1993-ArchaeologyadHumanEcologyCHINESE.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1993-ArchaeologyadHumanEcologyCHINESE.pdf",
+      "type": "pdfs",
+      "size": 521200
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1994-TowardACulturalCurriculum.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1994-TowardACulturalCurriculum.pdf",
+      "type": "pdfs",
+      "size": 1562378
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1992-JudgementorUnderstanding.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1992-JudgementorUnderstanding.pdf",
+      "type": "pdfs",
+      "size": 2881483
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1990-TheRealmofCulturalHumanEcology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1990-TheRealmofCulturalHumanEcology.pdf",
+      "type": "pdfs",
+      "size": 8727022
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1995-BiologicalTransferAgriculturalchang.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1995-BiologicalTransferAgriculturalchang.pdf",
+      "type": "pdfs",
+      "size": 1526565
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1996-H2OMangmen.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1996-H2OMangmen.pdf",
+      "type": "pdfs",
+      "size": 995396
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1996-EcologyinLongView.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1996-EcologyinLongView.pdf",
+      "type": "pdfs",
+      "size": 417402
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1995-CH7-XferMedLivestockEcontoNewWorld.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1995-CH7-XferMedLivestockEcontoNewWorld.pdf",
+      "type": "pdfs",
+      "size": 2098544
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1993-NoEdeninNewWorl.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1993-NoEdeninNewWorl.pdf",
+      "type": "pdfs",
+      "size": 3194366
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1994-IslamicTradiationAgeroecolog-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1994-IslamicTradiationAgeroecolog-1.pdf",
+      "type": "pdfs",
+      "size": 3068977
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1997-MexicanBeji.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1997-MexicanBeji.pdf",
+      "type": "pdfs",
+      "size": 1385639
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1999-TecnologiaDeIrricacion.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1999-TecnologiaDeIrricacion.pdf",
+      "type": "pdfs",
+      "size": 431122
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1997-SociopoliticaldiscontinuityintheNearEas.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1997-SociopoliticaldiscontinuityintheNearEas.pdf",
+      "type": "pdfs",
+      "size": 3709346
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1997-Late_Quaternary_Egyptian_Nile.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1997-Late_Quaternary_Egyptian_Nile.pdf",
+      "type": "pdfs",
+      "size": 3951288
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-2000-LesYeuxOuverts.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-2000-LesYeuxOuverts.pdf",
+      "type": "pdfs",
+      "size": 2686450
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2000-HumanRoleinEnvironmentalHistor.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2000-HumanRoleinEnvironmentalHistor.pdf",
+      "type": "pdfs",
+      "size": 578498
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer_Mateu-1999-PleistocenevsHoloceneMediterraneanSpain.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer_Mateu-1999-PleistocenevsHoloceneMediterraneanSpain.pdf",
+      "type": "pdfs",
+      "size": 4028128
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-2001-ComingFullCircle.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-2001-ComingFullCircle.pdf",
+      "type": "pdfs",
+      "size": 1685863
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-2002-AutoBiography.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-2002-AutoBiography.pdf",
+      "type": "pdfs",
+      "size": 1435059
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-2003-MathCharlamagne.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-2003-MathCharlamagne.pdf",
+      "type": "pdfs",
+      "size": 667385
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2004-RockEngravingsPose.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2004-RockEngravingsPose.pdf",
+      "type": "pdfs",
+      "size": 302780
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1998-SettlementandEcologyofSpain.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1998-SettlementandEcologyofSpain.pdf",
+      "type": "pdfs",
+      "size": 8444762
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer_Harris-2007-GeoArcCypurs.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer_Harris-2007-GeoArcCypurs.pdf",
+      "type": "pdfs",
+      "size": 1612039
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2005-EnviroHistMedWorl.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2005-EnviroHistMedWorl.pdf",
+      "type": "pdfs",
+      "size": 750520
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2002-RisingCostofContestationRespons.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2002-RisingCostofContestationRespons.pdf",
+      "type": "pdfs",
+      "size": 2614151
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-2008-Challenges4cross-disciplinarygeoarchaeology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-2008-Challenges4cross-disciplinarygeoarchaeology.pdf",
+      "type": "pdfs",
+      "size": 268222
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2009-EvolutionofInterdisciplinary.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2009-EvolutionofInterdisciplinary.pdf",
+      "type": "pdfs",
+      "size": 275574
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2004-AeolianSandsSouthAfric.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2004-AeolianSandsSouthAfric.pdf",
+      "type": "pdfs",
+      "size": 1452067
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2011-Geoarch_AMedPerspectiv-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2011-Geoarch_AMedPerspectiv-1.pdf",
+      "type": "pdfs",
+      "size": 464448
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer_Endfield-2012-Critical-perspectives-on-historical-collapse.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer_Endfield-2012-Critical-perspectives-on-historical-collapse.pdf",
+      "type": "pdfs",
+      "size": 489335
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2012-proceedingsCollapseEnvironmentSociety.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2012-proceedingsCollapseEnvironmentSociety.pdf",
+      "type": "pdfs",
+      "size": 799775
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1960-ForschungenREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1960-ForschungenREVIEW.pdf",
+      "type": "pdfs",
+      "size": 206793
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1962-REVIEWArideHumide.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1962-REVIEWArideHumide.pdf",
+      "type": "pdfs",
+      "size": 363182
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2015-AnthropoceneParadig.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2015-AnthropoceneParadig.pdf",
+      "type": "pdfs",
+      "size": 343518
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2002-FrenchWetlandAgricultureinAtlanticCanad.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2002-FrenchWetlandAgricultureinAtlanticCanad.pdf",
+      "type": "pdfs",
+      "size": 4561050
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1963-LaVendeeLittorale.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1963-LaVendeeLittorale.pdf",
+      "type": "pdfs",
+      "size": 375917
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1965-LaModeledesRegions.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1965-LaModeledesRegions.pdf",
+      "type": "pdfs",
+      "size": 254734
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1965-REVIEWTheLowerJordanValley.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1965-REVIEWTheLowerJordanValley.pdf",
+      "type": "pdfs",
+      "size": 251484
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1968-REVIEWThecycleofErosion.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1968-REVIEWThecycleofErosion.pdf",
+      "type": "pdfs",
+      "size": 159158
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1968-ThePaleolithicTangierREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1968-ThePaleolithicTangierREVIEW.pdf",
+      "type": "pdfs",
+      "size": 425310
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1967-REVIEWDieNiveauanderungen.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1967-REVIEWDieNiveauanderungen.pdf",
+      "type": "pdfs",
+      "size": 855600
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1968-GeographyasHumanEcologyREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1968-GeographyasHumanEcologyREVIEW.pdf",
+      "type": "pdfs",
+      "size": 167145
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1970-LaTunesie.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1970-LaTunesie.pdf",
+      "type": "pdfs",
+      "size": 159672
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1969-REVIEWPleistoceneMammals.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1969-REVIEWPleistoceneMammals.pdf",
+      "type": "pdfs",
+      "size": 401327
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1970-Grundzuge.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1970-Grundzuge.pdf",
+      "type": "pdfs",
+      "size": 158931
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1970-REVIEWUneCabane.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1970-REVIEWUneCabane.pdf",
+      "type": "pdfs",
+      "size": 408657
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1970-REVIEWCambridgeHistoryofIran.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1970-REVIEWCambridgeHistoryofIran.pdf",
+      "type": "pdfs",
+      "size": 563969
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1970-PrehistoricAnimalsHuntersREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1970-PrehistoricAnimalsHuntersREVIEW.pdf",
+      "type": "pdfs",
+      "size": 223747
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1971-GebelBenGhnema.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1971-GebelBenGhnema.pdf",
+      "type": "pdfs",
+      "size": 346747
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1972-IceAgesNatureandEffects.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1972-IceAgesNatureandEffects.pdf",
+      "type": "pdfs",
+      "size": 260821
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1971-fossilvertibratesofafrica.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1971-fossilvertibratesofafrica.pdf",
+      "type": "pdfs",
+      "size": 1079784
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1973-RebuttaltoZiegert.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1973-RebuttaltoZiegert.pdf",
+      "type": "pdfs",
+      "size": 373964
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1975-LatePleisstoceneVertebrates.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1975-LatePleisstoceneVertebrates.pdf",
+      "type": "pdfs",
+      "size": 364082
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-1964-Jung_Pleistozane.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-1964-Jung_Pleistozane.pdf",
+      "type": "pdfs",
+      "size": 1894014
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-2008-wetcyclesintheHolocene.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-2008-wetcyclesintheHolocene.pdf",
+      "type": "pdfs",
+      "size": 10859159
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1974-REVIEWTheExplanationofCulture.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1974-REVIEWTheExplanationofCulture.pdf",
+      "type": "pdfs",
+      "size": 551659
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1973-IntrotoClimaticGeomorphology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1973-IntrotoClimaticGeomorphology.pdf",
+      "type": "pdfs",
+      "size": 1398207
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1974-TheIceAgeinBritain.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1974-TheIceAgeinBritain.pdf",
+      "type": "pdfs",
+      "size": 109094
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1976-StructuralGeomorphology.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1976-StructuralGeomorphology.pdf",
+      "type": "pdfs",
+      "size": 265143
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1976-ThePreHistoryIndiaandPakistan.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1976-ThePreHistoryIndiaandPakistan.pdf",
+      "type": "pdfs",
+      "size": 869268
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1974-LesBasins.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1974-LesBasins.pdf",
+      "type": "pdfs",
+      "size": 274264
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1977-SoilScienceArchaeologyREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1977-SoilScienceArchaeologyREVIEW.pdf",
+      "type": "pdfs",
+      "size": 452983
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1977-TreasuresofTutkhamun.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1977-TreasuresofTutkhamun.pdf",
+      "type": "pdfs",
+      "size": 177482
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1978-REVIEWgeoarchaeologyearthscienceandthepast.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1978-REVIEWgeoarchaeologyearthscienceandthepast.pdf",
+      "type": "pdfs",
+      "size": 359709
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1976-TheEnvironmentofEarlyMan.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1976-TheEnvironmentofEarlyMan.pdf",
+      "type": "pdfs",
+      "size": 291780
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1979-GeomorphologyandTime.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1979-GeomorphologyandTime.pdf",
+      "type": "pdfs",
+      "size": 761811
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1979-ThePrehistoryandPaleogeography.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1979-ThePrehistoryandPaleogeography.pdf",
+      "type": "pdfs",
+      "size": 279655
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1978-REVIEWOverpopulation-1.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1978-REVIEWOverpopulation-1.pdf",
+      "type": "pdfs",
+      "size": 617330
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1980-HistoricalArchaeologyREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1980-HistoricalArchaeologyREVIEW.pdf",
+      "type": "pdfs",
+      "size": 220233
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1980-TheShaiqiaREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1980-TheShaiqiaREVIEW.pdf",
+      "type": "pdfs",
+      "size": 212692
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1980-IceAgesSolvingtheMysteryREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1980-IceAgesSolvingtheMysteryREVIEW.pdf",
+      "type": "pdfs",
+      "size": 101842
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1979-AgyptenDasAlteKulturland.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1979-AgyptenDasAlteKulturland.pdf",
+      "type": "pdfs",
+      "size": 203522
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1981-GeographyandSoilREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1981-GeographyandSoilREVIEW.pdf",
+      "type": "pdfs",
+      "size": 94746
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1979-REVIEWDerFundort.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1979-REVIEWDerFundort.pdf",
+      "type": "pdfs",
+      "size": 543117
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1982-ManandEnvironmentalProcesses.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1982-ManandEnvironmentalProcesses.pdf",
+      "type": "pdfs",
+      "size": 113263
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1982-SiedlungsFunde.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1982-SiedlungsFunde.pdf",
+      "type": "pdfs",
+      "size": 385517
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1983-SoilResistivityREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1983-SoilResistivityREVIEW.pdf",
+      "type": "pdfs",
+      "size": 214020
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1981-HumanEcologyinSavanna.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1981-HumanEcologyinSavanna.pdf",
+      "type": "pdfs",
+      "size": 1158407
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1981-ArchaeologicalSitesintheirSetting.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1981-ArchaeologicalSitesintheirSetting.pdf",
+      "type": "pdfs",
+      "size": 433637
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/03/Butzer-2008-prespectiveonpostmodern.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\03\\Butzer-2008-prespectiveonpostmodern.pdf",
+      "type": "pdfs",
+      "size": 7295656
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1983-MultiResearchGrasshopperREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1983-MultiResearchGrasshopperREVIEW.pdf",
+      "type": "pdfs",
+      "size": 195750
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1985-RuralIranREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1985-RuralIranREVIEW.pdf",
+      "type": "pdfs",
+      "size": 55613
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1986-GeographiaYMedio.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1986-GeographiaYMedio.pdf",
+      "type": "pdfs",
+      "size": 99318
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1985-GeomorphologyEurope.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1985-GeomorphologyEurope.pdf",
+      "type": "pdfs",
+      "size": 103620
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1985-PrehistoricRevolutionREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1985-PrehistoricRevolutionREVIEW.pdf",
+      "type": "pdfs",
+      "size": 544530
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1987-DasSchweiz.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1987-DasSchweiz.pdf",
+      "type": "pdfs",
+      "size": 202368
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1994-REVIEWAncient.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1994-REVIEWAncient.pdf",
+      "type": "pdfs",
+      "size": 197787
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1996-HumanImpactEnvironment.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1996-HumanImpactEnvironment.pdf",
+      "type": "pdfs",
+      "size": 195410
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1996-VolcanismRemoteSensingREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1996-VolcanismRemoteSensingREVIEW.pdf",
+      "type": "pdfs",
+      "size": 309375
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1984-ReviewManGeomorphologicalAgent.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1984-ReviewManGeomorphologicalAgent.pdf",
+      "type": "pdfs",
+      "size": 1385279
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1996-NearEastReview.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1996-NearEastReview.pdf",
+      "type": "pdfs",
+      "size": 233340
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1997-REVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1997-REVIEW.pdf",
+      "type": "pdfs",
+      "size": 114968
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/08/Butzer-1981-TracesofthePastREVIEW.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\08\\Butzer-1981-TracesofthePastREVIEW.pdf",
+      "type": "pdfs",
+      "size": 4273621
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2005-GardensofSpain.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2005-GardensofSpain.pdf",
+      "type": "pdfs",
+      "size": 233818
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2008-UnderstandingCulturalLandscape.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2008-UnderstandingCulturalLandscape.pdf",
+      "type": "pdfs",
+      "size": 41444
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2012-PreHispanicSettlement.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2012-PreHispanicSettlement.pdf",
+      "type": "pdfs",
+      "size": 34916
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2006-PeopleandNature.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2006-PeopleandNature.pdf",
+      "type": "pdfs",
+      "size": 222829
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2012-REVIEWHolocene.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2012-REVIEWHolocene.pdf",
+      "type": "pdfs",
+      "size": 44023
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-2009-GlobbalEnvironmentalHistory.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-2009-GlobbalEnvironmentalHistory.pdf",
+      "type": "pdfs",
+      "size": 55962
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1994-REVIEWAncientGreece.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1994-REVIEWAncientGreece.pdf",
+      "type": "pdfs",
+      "size": 851664
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/wp-content/uploads/sites/6106/2017/07/Butzer-1996-MountainsoftheMedit.pdf",
+      "path": "wp-content\\uploads\\sites\\6106\\2017\\07\\Butzer-1996-MountainsoftheMedit.pdf",
+      "type": "pdfs",
+      "size": 541025
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/courses/landscape-society-and-meaning/",
+      "path": "courses\\landscape-society-and-meaning\\index.html",
+      "type": "html_page",
+      "size": 38127
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/courses/historical-geography-of-colonial-mexico/",
+      "path": "courses\\historical-geography-of-colonial-mexico\\index.html",
+      "type": "html_page",
+      "size": 36128
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/courses/issues/",
+      "path": "courses\\issues\\index.html",
+      "type": "html_page",
+      "size": 43858
+    },
+    {
+      "url": "https://sites.utexas.edu/butzer/courses/geoarchaeology-and-environmental-history/",
+      "path": "courses\\geoarchaeology-and-environmental-history\\index.html",
+      "type": "html_page",
+      "size": 40133
+    }
+  ],
+  "elapsed_seconds": 349.14
+}
